@@ -1,5 +1,4 @@
-Building a Simple NoSQL Database using file
-Building a command-line tool in Python using JSON structure to store a record.
+Building a command-line tool in Python using JSON structure to store a record in Simple NoSQL Database.
 Contain following functionalities:
 1. Add a record
 2. Delete a record or records by a key-value pair
